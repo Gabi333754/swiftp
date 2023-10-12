@@ -8,4 +8,4 @@ FTP Server (swiftp)
 
 User documentation: see http://ppareit.github.io/swiftp/
 
-Developer documentation: see file HACKING
+INSTALL documentation: see file INSTALL
