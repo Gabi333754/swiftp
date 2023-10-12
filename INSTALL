@@ -10,6 +10,8 @@ How to use Android Studio with the SwiFTP project:
   - File -> Settings -> Plugins -> Browse Repositories
   - Search Lombok Plugin and install
 
+4) After
+
 DOCUMENTATION
 =============
 We make use of the lombok val keyword. See
